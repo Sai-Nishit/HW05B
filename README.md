@@ -1,60 +1,28 @@
-# p5.js Template
+## Overview
+This project is a reinterpretation of Yoko Ono's instruction-based art from "GRAPEFRUIT: A Book of Instructions and Drawings." Specifically, it is inspired by her "BREATHE PIECE", which invites participants to imagine their breath turning into a cloud and floating away. The result is an interactive, meditative sketch that visualizes this concept.
 
-This is a README file that can be used to describe and document your assignment.
+## Concept
+Instruction from GRAPEFRUIT:
+"Take a deep breath. Imagine the breath turning into a cloud. Watch the cloud float away."
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+This program:
+Creates animated "breath clouds" that float upwards, representing moments of calm and release.
+Allows users to add their own clouds interactively by clicking and holding the mouse.
+Incorporates time-based elements, with clouds appearing and moving naturally to create a meditative, ever-changing experience.
 
----
----
+## Features
 
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
+Interactive Clouds:
+Users can create larger clouds by clicking and holding the mouse, symbolizing their breath.
 
-**bold text**
+Time-Based Changes:
+New clouds are generated automatically over time, floating gently upward to create a tranquil scene.
 
-*italicized text*
+Minimalist Design:
+A simple visual style aligns with Yoko Ono's minimalist artistic philosophy.
 
-~~strikethrough text~~
+Dynamic Animation:
+Clouds change in size, speed, and transparency for a realistic effect.
 
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2024f-b.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+## `Inspiration
+This project is inspired by the Fluxus movement and Yoko Ono's conceptual art, particularly her "Instruction Paintings" that encourage the viewer's participation and imagination. It explores themes of mindfulness, impermanence, and the beauty of simplicity.
